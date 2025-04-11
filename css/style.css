@@ -1,0 +1,15 @@
+.font-main {
+    font-size: clamp(18px, 2.5vw, 1.875rem);
+}
+
+.font-3xl {
+    font-size: clamp(24px, 5vw, 1.875rem);
+}
+
+.font-2xl {
+    font-size: clamp(20px, 4vw, 1.5rem);
+}
+
+.font-xl {
+    font-size: clamp(14px, 3vw, 1.25rem);
+}
